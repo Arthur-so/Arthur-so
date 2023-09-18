@@ -4,6 +4,9 @@
 
 <p align="center">Eu ❤️ de desafios que envolvam tecnologia. <br><br> Eu sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack junior </strong> atuando profissionalmente a 2 anos em visão computacional e processamento de imagens. Mas tenho me interessado e dedicado ao desenvolvimento web usando NodeJS.</p>&nbsp;
 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-so&layout=compact&langs_count=7&theme=dracula"/>
+
+
 ## Minhas Skills
 
 #### Minhas Stacks:
