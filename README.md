@@ -2,7 +2,11 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Arthur-so/Arthur-so/blob/main/github-header-image-message.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu ❤️ desafios que envolvam tecnologia. <br><br> Eu sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack junior </strong> atuando profissionalmente a 2 anos em visão computacional e processamento de imagens. Mas tenho me interessado e venho me dedando ao desenvolvimento web usando NodeJS.</p>&nbsp;
+<p align="center">Sou um desenvolvedor full stack junior com 2 anos de experiência em visão computacional e processamento de imagens. Atualmente, estou ampliando minha expertise no desenvolvimento web, com foco em Node.js.
+
+Experiência:
+<br><strong> Desenvolvimento Full Stack Desktop: </strong> Dois anos de trabalho em visão computacional e processamento de imagens.
+<br><strong> Desenvolvimento Web: </strong> Atualmente, estou dedicando meu tempo ao aprendizado e prática em Node.js em meu tempo livre e Django em um projeto da UNIFESP.</p>&nbsp;
 
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-so&layout=compact&langs_count=7&theme=dracula"/></p>&nbsp;
 
