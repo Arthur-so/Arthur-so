@@ -2,11 +2,11 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Arthur-so/Arthur-so/blob/main/github-header-image-message.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Sou um desenvolvedor full stack junior com 2 anos de experiência em visão computacional e processamento de imagens. Atualmente, estou ampliando minha expertise no desenvolvimento web, com foco em Node.js.
+<p align="center">Sou um desenvolvedor full stack junior com 2 anos de experiência em visão computacional e processamento de imagens. Atualmente, estou ampliando minha expertise no desenvolvimento web backend, com foco em Spring.
 
 Experiência:
-<br><strong> Desenvolvimento Full Stack Desktop: </strong> Dois anos de trabalho em visão computacional e processamento de imagens.
-<br><strong> Desenvolvimento Web: </strong> Atualmente, estou dedicando meu tempo ao aprendizado e prática em Node.js em meu tempo livre e Django em um projeto da UNIFESP.</p>&nbsp;
+<br><strong> Desenvolvimento Full Stack Desktop: </strong> Dois anos de trabalho em visão computacional e processamento de imagens uitilizando Python e C++, continuo atuando profissionalmente nessa área.
+<br><strong> Desenvolvimento Web: </strong> Tenho dedicado meu tempo ao aprendizado e prática de Spring, mas já estive envolvido com NodeJS. Além de projetos da faculdade utilizando Django. </p>&nbsp;
 
 <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-so&layout=compact&langs_count=7&theme=dracula"/></p>&nbsp;
 
@@ -27,12 +27,12 @@ Experiência:
 
 #### Stacks secundárias:
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=whit)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -42,6 +42,7 @@ Experiência:
 
 #### Workstation Tools:
 
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)&nbsp;
