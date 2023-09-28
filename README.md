@@ -1,15 +1,15 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Arthur-so/Arthur-so/blob/main/github-header-image-message.png" />
-&nbsp;&nbsp;&nbsp;
+<p align="center"><img align="center" style="margin-bottom:100px" width="100%" src="https://github.com/Arthur-so/Arthur-so/blob/main/github-header-image-message.png" /></p>
 
-<p align="center">Sou um desenvolvedor full stack junior com 2 anos de experiência em visão computacional e processamento de imagens. Atualmente, estou ampliando minha expertise no desenvolvimento web backend, com foco em Spring.
+<p align="center">Sou um desenvolvedor full stack junior com 2 anos de experiência em visão computacional e processamento de imagens. Atualmente, estou ampliando minha expertise no desenvolvimento web backend, com foco em Spring.</p>
 
-Experiência:
-<br><strong> Desenvolvimento Full Stack Desktop: </strong> Dois anos de trabalho em visão computacional e processamento de imagens uitilizando Python e C++, continuo atuando profissionalmente nessa área.
-<br><strong> Desenvolvimento Web: </strong> Tenho dedicado meu tempo ao aprendizado e prática de Spring, mas já estive envolvido com NodeJS. Além de projetos da faculdade utilizando Django. </p>&nbsp;
+## Experiência:
 
-<p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-so&layout=compact&langs_count=7&theme=dracula"/></p>&nbsp;
+- **Desenvolvimento Full Stack Desktop:** Dois anos de trabalho em visão computacional e processamento de imagens utilizando Python e C++. Continuo atuando profissionalmente nessa área.
+  
+- **Desenvolvimento Web:** Tenho dedicado meu tempo ao aprendizado e prática de Spring, mas já estive envolvido com NodeJS. Além de projetos da faculdade utilizando Django.
 
+<p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-so&layout=compact&langs_count=7&theme=dracula"/></p>
 
 ## Minhas Skills
 
