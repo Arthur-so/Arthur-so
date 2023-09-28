@@ -1,7 +1,7 @@
 
 <p align="center"><img align="center" style="margin-bottom:100px" width="100%" src="https://github.com/Arthur-so/Arthur-so/blob/main/github-header-image-message.png" /></p>
 
-<p>Sou um desenvolvedor full stack junior com 2 anos de experiência em visão computacional e processamento de imagens. Atualmente, estou ampliando minha expertise no desenvolvimento web backend, com foco em Spring.</p>
+<p>Desenvolvedor full stack junior com 2 anos de experiência em visão computacional e processamento de imagens. Atualmente, estou ampliando minha expertise no desenvolvimento web backend, com foco em Spring.</p>
 <br>
 
 ## Experiência:
